@@ -10,6 +10,8 @@ namespace demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("tiger");
+            Console.WriteLine("dog");
         }
     }
 }
